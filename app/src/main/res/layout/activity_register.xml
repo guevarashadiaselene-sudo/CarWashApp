@@ -54,6 +54,16 @@
             android:background="@drawable/edittext_bg"
             android:padding="12dp"
             android:layout_marginBottom="16dp" />
+        <!-- Campo País -->
+<EditText
+    android:id="@+id/etPais"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="País"
+    android:inputType="textPersonName"
+    android:background="@drawable/edittext_bg"
+    android:padding="12dp"
+    android:layout_marginBottom="16dp" />
 
         <!-- Campo Correo -->
         <EditText
